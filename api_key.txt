@@ -1,2 +1,0 @@
-llx-4plKQemvkhCycTaxYtOM40FnmHSfAzKEPRfaMPV8lctmUgwm : LlamaCLoud
-AIzaSyB5_h1JnNbgT1x0wnUu_fgDny3x7cGcJoc: google AI studio
